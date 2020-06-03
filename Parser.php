@@ -1,6 +1,6 @@
 <?php
 
-namespace HyperDown;
+namespace bigDream\HyperDown;
 
 /**
  * Parser
