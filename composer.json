@@ -1,7 +1,7 @@
 {
     "name": "big-dream/hyper-down",
     "description": "A light weight markdown parser library",
-    "license": "BSD",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "joyqi",
